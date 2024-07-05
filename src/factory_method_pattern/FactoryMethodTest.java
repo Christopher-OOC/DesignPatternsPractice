@@ -12,7 +12,6 @@ public class FactoryMethodTest {
 		System.out.println("helloo");
 		System.out.println("helloo");
 		System.out.println("helloo");
-		System.out.println("helloo");
 	}
 
 }
